@@ -1,0 +1,23 @@
+{
+  "name": "ecAngular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sagar Shelar"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sshelar/ecAngular",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
